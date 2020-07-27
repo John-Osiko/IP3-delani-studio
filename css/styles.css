@@ -5,13 +5,15 @@
     background-repeat: no-repeat;
     color: white;
     text-align: center;
-    padding-top: 14.85%;
-    width: 100vw;
+    padding-top: 12.5%;
+    width: 98.5vw;
     height: 100vh;
+    font-family: 'Open Sans', sans-serif;
 }
 
 html {
     scroll-behavior: smooth;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 #welcoming h1 {
@@ -82,7 +84,15 @@ html {
     padding-right: 20px;
 }
 
-#portfolio h3 {
+.row {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 97vw;
+}
+
+
+/* #portfolio h3 {
     text-align: center;
 }
 
@@ -98,7 +108,7 @@ html {
     margin: 100%;
     margin-left: 1px;
     margin-right: 0.5px;
-}
+} */
 
 #product,
 #dev,
@@ -168,12 +178,16 @@ button {
     background: transparent;
     color: white;
     width: 70px;
-    height: 10px;
+    height: 25px;
 }
 
 footer {
     align-items: center;
     padding-top: 30px;
+}
+
+footer #imagen {
+    padding-left: 30%;
 }
 
 footer p {
@@ -201,5 +215,15 @@ footer p {
     font-weight: bold;
     text-align: center;
     font-size: 30px;
-    padding-top: 50%;
+    padding-top: 30px;
+    overflow: hidden;
+}
+
+h3 {
+    font-weight: 800;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 800;
 }
