@@ -8,10 +8,15 @@
 This is my week three project meant to test the cummulative skills I have learnt in HTML, CSS, Bootstrap, JavaScript and JQuery
 
 
+## Demo
+<img src="/images/_Delani Studio.jpg" alt="Page Outlook">
+
+
+
 ## Setup Instruction
 * Open Terminal {Ctrl+Alt+T}
 * git clone https://github.com/John-Osiko/IP3-delani-studio.git
-* cd IP2-Caculator
+* cd IP3-delani-studio
 * code . or atom . based on the text editor you have.
 
 ## BDD
