@@ -15,12 +15,9 @@ This is my week three project meant to test the cummulative skills I have learnt
 * code . or atom . based on the text editor you have.
 
 ## BDD
-* Enter century of birth eg 20 for 2020
-* Enter year of Birth eg 19 for 2019 
-* Enter month of birth eg 1 for january 
-* Enter Date of the month you were born in eg 20 
-* Select gender Input example male output male
-* Submit. Input example, the program compares the inputs with the conditions set for the inputs
+* Click on what we do icoms to read description
+* Read on Studio portfolio by hovering on images 
+* Communicate to studio owners 
 
 ## Technologies used
 * HTML 5 -HyperText Markup Language
