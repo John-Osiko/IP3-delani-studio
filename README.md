@@ -6,11 +6,11 @@
 
 ## Description
 This is my week three project meant to test the cummulative skills I have learnt in HTML, CSS, Bootstrap, JavaScript and JQuery
-
-
-## Demo
 <img src="/images/_Delani Studio.jpg" alt="Page Outlook">
 
+## Demo
+
+<iframe src="https://drive.google.com/file/d/12qRJ-OlnURprmWD9VDJzQTaptmxrdyZG/preview" width="640" height="480"></iframe>
 
 
 ## Setup Instruction
